@@ -2,9 +2,9 @@
 
 ### Terminal Commands Overview
 
-![Terminal Commands](screenshots/creating-project)
-![Terminal Commands](screenshots/adding-git)
-![Terminal Commands](screenshots/commiting-code)
-![Terminal Commands](screenshots/pushing-code)
-![Terminal Commands](screenshots/again-push)
-![Terminal Commands](screenshots/simple-project)
+![Terminal Commands](screenshots/creating-project.png)
+![Terminal Commands](screenshots/adding-git.png)
+![Terminal Commands](screenshots/commiting-code.png)
+![Terminal Commands](screenshots/pushing-code.png)
+![Terminal Commands](screenshots/again-push.png)
+![Terminal Commands](screenshots/simple-project.png)
