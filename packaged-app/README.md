@@ -1,3 +1,8 @@
+
+## Screenshots
+
+### Terminal Commands Overview
+
 ![Terminal Commands](../screenshots/creating-project.png)
 ![Terminal Commands](../screenshots/adding-git.png)
 ![Terminal Commands](../screenshots/commiting-code.png)
